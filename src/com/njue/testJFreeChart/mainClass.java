@@ -3,6 +3,7 @@ import java.awt.GridLayout;
 
 import javax.swing.JFrame;  
 
+//毫无意义
 public class mainClass {
 
 	public static void main(String[] args) {
